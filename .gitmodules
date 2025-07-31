@@ -10,3 +10,6 @@
 [submodule "COCO"]
 	path = COCO
 	url = https://github.com/recursionBlack/coco.git
+[submodule "cycleGAN"]
+	path = cycleGAN
+	url = https://github.com/recursionBlack/cycleGAN.git
