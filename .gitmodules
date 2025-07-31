@@ -7,3 +7,6 @@
 [submodule "cifar10"]
 	path = cifar10
 	url = https://github.com/recursionBlack/cifar10.git
+[submodule "COCO"]
+	path = COCO
+	url = https://github.com/recursionBlack/coco.git
